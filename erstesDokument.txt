@@ -1,2 +1,3 @@
-Hallo Welt! 
+Hallo Welt! Und noch eine Änderung +1
 Ich ändere jetzt mal die zweite Zeile.
+Jetzt kommt noch eine zweite Zeile hinzu für das Diff.
