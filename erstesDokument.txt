@@ -1,2 +1,2 @@
 Hallo Welt! 
-Ich ändere jetzt mal die zweite Ziele.
+Ich ändere jetzt mal die zweite Zeile.
