@@ -7,3 +7,4 @@ kommt viel neuer
 Test
 
 
+neuer Versuch den Editor für Commit-Message zu benutzen
