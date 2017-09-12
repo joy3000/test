@@ -1,10 +1,10 @@
 Hallo Welt! Und noch eine Änderung +1
 Ich ändere jetzt mal die zweite Zeile.
-Jetzt kommt noch eine zweite Zeile hinzu für das Diff. blablubb7
+Jetzt kommt noch eine zweite Zeile hinzu, für das Diff. blablubb7
 
 und hier 
 kommt viel neuer 
 Test
 
 
-neuer Versuch den Editor für Commit-Message zu benutzen
+neuer Versuch den Editor für Commit-Message zu benutzen Blaaa
